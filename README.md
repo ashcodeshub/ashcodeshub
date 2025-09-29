@@ -1,6 +1,7 @@
-# Hi there 👋, I'm Ashmeet Kaur
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ashmeet Kaur
 
 **<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Passionate+about+building+innovative+projects" alt="Typing SVG"/>**
+
 
 ---
 
